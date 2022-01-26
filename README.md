@@ -18,3 +18,5 @@ Non-Gaussian and inflation, may have some good reference to PT in intro section.
 2. Tobias et al.: The black hole population in low-mass galaxies in large-scale cosmological simulations \
 https://arxiv.org/pdf/1011.1513.pdf \
 This paper talks about sub-grid physics (star formation, stellar and SN feedback, BH formation, evolution and feedback) in cosmological simulations, with a focus on BH phyics.
+
+3. Side paper: https://arxiv.org/pdf/2201.09848.pdf. May be a good source to learn something about H_0 tension.
