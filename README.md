@@ -9,7 +9,12 @@ Simon Prunet: A low-rank approach to image defringing
 https://arxiv.org/pdf/2109.02562.pdf
 
 ## Jan 26 2022:
-G. A. Peña, G. N. Candlish: The large-scale structure from non-Gaussian primordial perturbations
+1. G. A. Peña, G. N. Candlish: The large-scale structure from non-Gaussian primordial perturbations
 https://arxiv.org/pdf/2201.08842.pdf \
-Non-Gaussian and inflation, may have some good reference to PT in intro section.
+Non-Gaussian and inflation, may have some good reference to PT in intro section. \
+(Related paper for background -> higher order statistics to probe non-Gaussian  "Primordial non-Gaussianity in the Bispectrum of the Halo Density Field"
+: https://arxiv.org/pdf/1011.1513.pdf)
+
+2. Tobias et al.: The black hole population in low-mass galaxies in large-scale cosmological simulations \
+https://arxiv.org/pdf/1011.1513.pdf
 
