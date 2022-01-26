@@ -5,7 +5,7 @@ Eckart C., Young G., 1936, Psychometrika, 1, 211: The approxmiation of a matrix 
 https://ccrma.stanford.edu/~dattorro/eckart&young.1936.pdf
 
 Fringing: \
-Simon Prunet: A low-rank approach to image defringing
+Simon Prunet: A low-rank approach to image defringing \
 https://arxiv.org/pdf/2109.02562.pdf
 
 ## Jan 26 2022:
