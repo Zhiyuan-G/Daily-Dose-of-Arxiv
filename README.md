@@ -20,3 +20,8 @@ https://arxiv.org/pdf/1011.1513.pdf \
 This paper talks about sub-grid physics (star formation, stellar and SN feedback, BH formation, evolution and feedback) in cosmological simulations, with a focus on BH phyics.
 
 3. Side paper: https://arxiv.org/pdf/2201.09848.pdf. May be a good source to learn something about H_0 tension.
+
+## Jan 30 2022:
+1. Ji et al. : Cosmological perturbations: non-cold relics without the Boltzmann hierarchy \
+https://arxiv.org/pdf/2201.11129.pdf  \
+Theoretical paper propose a new method to replace Boltzmann hierarchies calculation method for collisionless species. Fig 1 in the paper has a nice description of the classic (hierachies) and the new method.
