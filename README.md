@@ -28,3 +28,12 @@ Theoretical paper propose a new method to replace Boltzmann hierarchies calculat
 
 2. D'Amico et al. : Limits on primordial non-Gaussianities from BOSS galaxy-clustering data \
 https://arxiv.org/pdf/2201.11518.pdf
+
+## Jan 31 2022:
+1. Saifollahi et al.: Implications for Galaxy Formation Models from Observations of Globular Clusters around Ultra-Diffuse Galaxies \
+https://arxiv.org/pdf/2201.12308.pdf \
+Mainly for the reference of the LSST fringing paper. See brightness unit used for ultra-diffuse galaxy. (UDG is a sub-class of low surface brightness (LSB) galaxy.)
+
+2. Hausen and Robertson:  FitsMap: A Simple, Lightweight Tool For Displaying Interactive Astronomical Image and Catalog Data \ 
+https://arxiv.org/pdf/2201.12308.pdf \
+A new imaging tool (like DS9..). This paper offers a good overview of the current imaging toolist.
