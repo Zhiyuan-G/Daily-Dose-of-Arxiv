@@ -37,3 +37,5 @@ Mainly for the reference of the LSST fringing paper. See brightness unit used fo
 2. Hausen and Robertson:  FitsMap: A Simple, Lightweight Tool For Displaying Interactive Astronomical Image and Catalog Data \ 
 https://arxiv.org/pdf/2201.12308.pdf \
 A new imaging tool (like DS9..). This paper offers a good overview of the current imaging toolist.
+
+## Feb 1: Lots of interesting paper today. Incoming later... (Extra research: Learn the research area covered in SJTU)
