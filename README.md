@@ -34,7 +34,7 @@ https://arxiv.org/pdf/2201.11518.pdf
 
 ## Jan 31 2022:
 1. Saifollahi et al.: Implications for Galaxy Formation Models from Observations of Globular Clusters around Ultra-Diffuse Galaxies \
-https://arxiv.org/pdf/2201.12308.pdf \
+https://arxiv.org/pdf/2201.11750.pdf \
 Mainly for the reference of the LSST fringing paper. See brightness unit used for ultra-diffuse galaxy. (UDG is a sub-class of low surface brightness (LSB) galaxy.)
 
 2. Hausen and Robertson:  FitsMap: A Simple, Lightweight Tool For Displaying Interactive Astronomical Image and Catalog Data \ 
