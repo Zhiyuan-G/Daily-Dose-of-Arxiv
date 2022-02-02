@@ -38,4 +38,13 @@ Mainly for the reference of the LSST fringing paper. See brightness unit used fo
 https://arxiv.org/pdf/2201.12308.pdf \
 A new imaging tool (like DS9..). This paper offers a good overview of the current imaging toolist.
 
-## Feb 1: Lots of interesting paper today. Incoming later... (Extra research: Learn the research area covered in SJTU)
+## Feb 1: 
+Lots of interesting paper today. Incoming later... (Extra research: Learn the research area covered in SJTU)
+1. https://arxiv.org/pdf/2201.13384.pdf
+2. https://arxiv.org/pdf/2201.13120.pdf
+3. https://arxiv.org/pdf/2201.12698.pdf
+4. https://arxiv.org/pdf/2201.12591.pdf
+5. https://arxiv.org/pdf/2201.12553.pdf
+6. https://arxiv.org/pdf/2201.12804.pdf
+
+## Feb 2:
