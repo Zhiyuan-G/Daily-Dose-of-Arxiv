@@ -48,3 +48,16 @@ Lots of interesting paper today. Incoming later... (Extra research: Learn the re
 6. https://arxiv.org/pdf/2201.12804.pdf
 
 ## Feb 2:
+1. Elbers et al.: Higher-order initial conditions with massive neutrinos \
+https://arxiv.org/pdf/2202.00670.pdf \
+LPT method for IC with massive neutrinos for N-body simulation.
+
+2. Gaztanaga: The Cosmological Constant as Event Horizon \
+https://arxiv.org/pdf/2202.00641.pdf \
+Discussion on GR and blackhole (Offer review on the some GR equations.)
+
+3. Ashu Kushwaha: Gertsenshtein-Zel′dovich effect explains the origin of Fast Radio Bursts \
+https://arxiv.org/pdf/2202.00032.pdf \
+Disucssion on Gertsenshtein-Zel′dovich effect to explain the large amount energy from Fast Radio Burst (FRB). \
+Basic idea: "GWs get converted to EM waves in the prescence of strong transverse magnetic fields." \
+Two ingredients: a. compact object with B field ~ 10 Gauss b. GHz freq GW
