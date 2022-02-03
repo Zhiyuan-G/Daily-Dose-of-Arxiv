@@ -64,3 +64,15 @@ https://arxiv.org/pdf/2202.00032.pdf \
 Disucssion on Gertsenshtein-Zel′dovich effect to explain the large amount energy from Fast Radio Burst (FRB). \
 Basic idea: "GWs get converted to EM waves in the prescence of strong transverse magnetic fields." \
 Two ingredients: a. compact object with B field ~ 10 Gauss b. GHz freq GW
+
+## Feb 3:
+1. Heisenberg et al.: Can late-time extensions solve the H0 and σ8 tensions? \
+https://arxiv.org/pdf/2202.01202.pdf \
+Discussion on small deviation on basic cosmology equations.
+
+2. Esposito et al.: Weighing Cosmic Structures with Clusters of Galaxies and the Intergalactic Medium \
+https://arxiv.org/pdf/2202.00974.pdf \
+A remind to review Sunyaev-Zeldovich effect.
+
+3. Martens: Dark Matter Realism
+https://arxiv.org/pdf/2202.00958.pdf This is an interesting (kind of weird..) paper that offers some personal view on Dark Matter formalism.
