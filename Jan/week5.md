@@ -1,7 +1,3 @@
-# Daily-Dose-of-Arxiv
-
-A place to keep my daily browsing history of arxiv
-
 ## Previous paper
 Pure Math paper: \
 Eckart C., Young G., 1936, Psychometrika, 1, 211: The approxmiation of a matrix by a lower rank matrix
