@@ -1,11 +1,27 @@
-## Feb 1: 
-Lots of interesting paper today. Incoming later... (Extra research: Learn the research area covered in SJTU)
-1. https://arxiv.org/pdf/2201.13384.pdf
-2. https://arxiv.org/pdf/2201.13120.pdf
-3. https://arxiv.org/pdf/2201.12698.pdf
-4. https://arxiv.org/pdf/2201.12591.pdf
-5. https://arxiv.org/pdf/2201.12553.pdf
-6. https://arxiv.org/pdf/2201.12804.pdf
+## Feb 1:
+1. Krishnan and Mondol: H0 as a Universal FLRW Diagnostic \
+https://arxiv.org/pdf/2201.13384.pdf \
+H0 tension: the measurement of H0 inferred from observation at different z (z ~ 1000 and z ~ 0) varies.\
+This paper advertises the idea of H0 inverse as a diagnostic to verify the vadlidity of any FLRW model because of the tension.
+
+2. Barnes: The Friedman-Lemaˆıtre-Robertson-Walker Metric: a centennial review \
+https://arxiv.org/pdf/2201.13120.pdf \
+Maybe a good source for some basic cosmology + GR (history) review. Also talks about the ongoing problem with FLRW.
+
+3. E/B mode decomposition of HSC-Y1 cosmic shear using COSEBIs: cosmological constraints and comparison with other two-point statistics \
+https://arxiv.org/pdf/2201.12698.pdf \
+Time to review some cosmic shear cosmology and 2-pt...
+
+4. Thermal energy census with the Sunyaev-Zel’dovich effect of DESI galaxy clusters/groups and its implication on the weak lensing power spectrum \
+https://arxiv.org/pdf/2201.12591.pdf \
+Thermal Sunyaev-Zel’dovich effect. Fitting theory to data to derive various quantities.
+
+5. Wang et al.: Cosmological model-independent measurement on cosmic curvature using distance sum rule with the help of gravitational waves \
+https://arxiv.org/pdf/2201.12553.pdf \
+
+
+6. Harikumar and Biesiada: Moffat’s Modified Gravity tested on X-COP galaxy clusters \
+https://arxiv.org/pdf/2201.12804.pdf \
 
 ## Feb 2:
 1. Elbers et al.: Higher-order initial conditions with massive neutrinos \
