@@ -17,11 +17,11 @@ https://arxiv.org/pdf/2201.12591.pdf \
 Thermal Sunyaev-Zel’dovich effect. Fitting theory to data to derive various quantities.
 
 5. Wang et al.: Cosmological model-independent measurement on cosmic curvature using distance sum rule with the help of gravitational waves \
-https://arxiv.org/pdf/2201.12553.pdf \
+https://arxiv.org/pdf/2201.12553.pdf
 
 
 6. Harikumar and Biesiada: Moffat’s Modified Gravity tested on X-COP galaxy clusters \
-https://arxiv.org/pdf/2201.12804.pdf \
+https://arxiv.org/pdf/2201.12804.pdf
 
 ## Feb 2:
 1. Elbers et al.: Higher-order initial conditions with massive neutrinos \
@@ -49,3 +49,7 @@ A remind to review Sunyaev-Zeldovich effect.
 
 3. Martens: Dark Matter Realism
 https://arxiv.org/pdf/2202.00958.pdf This is an interesting (kind of weird..) paper that offers some personal view on Dark Matter formalism.
+
+## Feb 4:
+1. Qi et al.: Strongly lensed type Ia supernovae as a precise late-universe probe of measuring the Hubble constant and cosmic curvature \
+https://arxiv.org/pdf/2202.01396.pdf (Finally a paper I can fully understand...)
