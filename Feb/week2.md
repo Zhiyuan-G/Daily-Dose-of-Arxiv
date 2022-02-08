@@ -3,3 +3,8 @@
 https://arxiv.org/pdf/2202.01790.pdf \
 A bias challenge related paper: Address the impact of nonlinear in halo model. Section 2 gives a good intro to the theory formalism.
 (Compare with the one implemented in the project, see if that one account for 'assembly bias')
+
+## Feb 8
+1. Li et al.: The Effect of Adiabatic Compression on Dark Matter Halos and the Radial Acceleration Relation \
+https://arxiv.org/pdf/2202.03421.pdf \
+Section 2 basic theory for galaxy modeling.
