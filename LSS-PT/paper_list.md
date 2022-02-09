@@ -13,11 +13,11 @@ b. Theory: Jain and Bertschinger,1994: https://arxiv.org/pdf/astro-ph/9311070.pd
 a. Chen et al. 2020: https://arxiv.org/pdf/2005.00523.pdf \
 b. Section 2.5 of Bernardeau et al. (link above)
 
-## Miscellaneous
-4. Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.585
+## 4. Miscellaneous
+Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.585
 
 
-Paper for useful tools:
+## Paper for useful tools:
 1. FAST-PT paper1 : EcEwen et al. 2016: https://arxiv.org/pdf/1603.04826.pdf \
    FAST-PT paper2 : Xiao et al. 2017: https://arxiv.org/pdf/1609.05978.pdf \
    FAST-PT user manual: https://github.com/JoeMcEwen/FAST-PT/blob/master/docs/usr_manual.pdf
