@@ -12,3 +12,11 @@ Section 2 basic theory for galaxy modeling.
 ## Feb 9:
 1. Lee et al. 2022: Is Local H0 At Odds With Dark Energy EFT? \
 https://arxiv.org/pdf/2202.03906.pdf
+
+## Feb 10:
+1. Hall and Taylor: The non-Gaussian likelihood of weak lensing power spectra \
+https://arxiv.org/pdf/2202.04095.pdf \
+See section II.B.1 for Fisher Matrix with proper non-Gaussian covariance matrix
+
+2. Brout et al. 2022: The Pantheon+ Analysis: Cosmological Constraints \
+https://arxiv.org/pdf/2202.04077.pdf

@@ -7,7 +7,8 @@
 
 ## 2. SPT/EPT:
 a. Quick jump-in: Pandey et al. 2020: https://arxiv.org/pdf/2008.05991.pdf \
-b. Theory: Jain and Bertschinger,1994: https://arxiv.org/pdf/astro-ph/9311070.pdf
+b. Theory: Jain and Bertschinger,1994: https://arxiv.org/pdf/astro-ph/9311070.pdf \
+c. Bias parms renormalizing: McDonald 2016: https://arxiv.org/pdf/astro-ph/0609413.pdf
 
 ## 3. LPT:
 a. Chen et al. 2020: https://arxiv.org/pdf/2005.00523.pdf \
@@ -23,3 +24,6 @@ Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.58
    FAST-PT user manual: https://github.com/JoeMcEwen/FAST-PT/blob/master/docs/usr_manual.pdf
 
    a. Nonlinear bias to galaxy power spectrum used in FAST-PT: Baldauf et al. 2012: https://arxiv.org/pdf/1201.4827.pdf
+
+2. NBODYKIT: Python toolkit for analyzing large-scale structure (LSS) data. \
+   Hand et al. 17: https://arxiv.org/pdf/1712.05834.pdf 
