@@ -10,7 +10,7 @@ https://arxiv.org/pdf/2202.03421.pdf \
 Section 2 basic theory for galaxy modeling.
 
 ## Feb 9:
-1. Lee et al. 2022: Is Local H0 At Odds With Dark Energy EFT? \
+1. Lee et al.: Is Local H0 At Odds With Dark Energy EFT? \
 https://arxiv.org/pdf/2202.03906.pdf
 
 ## Feb 10:
@@ -20,3 +20,7 @@ See section II.B.1 for Fisher Matrix with proper non-Gaussian covariance matrix
 
 2. Brout et al. 2022: The Pantheon+ Analysis: Cosmological Constraints \
 https://arxiv.org/pdf/2202.04077.pdf
+
+## Feb 11:
+1. Wang et al. : Extracting high-order cosmological information in galaxy surveys with power spectra \
+https://arxiv.org/pdf/2202.05248.pdf
