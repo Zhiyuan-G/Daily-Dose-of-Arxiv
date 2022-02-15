@@ -1,4 +1,5 @@
-## Feb 14: No paper today
+## Feb 14:
+No paper today
 
 ## Feb 15:
 1. Ding et al.: The DESI 𝑁-body Simulation Project II: Suppressing Sample Variance with Fast Simulations \
