@@ -1,10 +1,10 @@
-# Here list the paper and sources most relevant to LSS perturbation theory and galaxy bias
+# Here list the paper and sources most relevant to LSS perturbation theory + HOD and galaxy bias
 
 ## General
 0. 'Modern cosmology' by Dodelson and Schmidt Chapter 8 & 12 (especially 12.2)
 
 1. General review: Bernardeau et al. 2002: https://arxiv.org/pdf/astro-ph/0112551.pdf :\
-    Section 4.1.3 Bispectrum induced by Gravity - leading order (skipped, come back at later time) 
+    Section 4.1.3 Bispectrum induced by Gravity - leading order (skipped, come back at later time)
 2. Large-Scale Galaxy Bias: Desjacques et al. 16: https://arxiv.org/pdf/1611.09787.pdf
 
 ## 2. SPT/EPT:
@@ -18,7 +18,14 @@ a. Chen et al. 2020: https://arxiv.org/pdf/2005.00523.pdf (!!!)\
 b. Section 2.5 of Bernardeau et al. (link above) \
 c. Matsubara 2008: https://arxiv.org/pdf/0711.2521.pdf (!!)
 
-## 4. Miscellaneous
+## 4. HOD:
+a. Berlind and Weinberg: https://arxiv.org/pdf/astro-ph/0109001.pdf
+
+## 5.EFT:
+a. Perko et al.: https://arxiv.org/abs/1610.09321 \
+b. D'Amico et al.: https://arxiv.org/abs/1909.05271 
+
+## 6. Miscellaneous:
 Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.585
 
 
@@ -31,3 +38,5 @@ Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.58
 
 2. NBODYKIT: Python toolkit for analyzing large-scale structure (LSS) data. \
    Hand et al. 17: https://arxiv.org/pdf/1712.05834.pdf
+
+3. PyBird: Evaluating the multipoles of the power spectrum of biased tracers in redshift space: https://github.com/pierrexyz/pybird \
