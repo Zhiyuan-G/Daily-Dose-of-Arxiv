@@ -18,10 +18,22 @@ Autoencoder to forward CMB power spectra.
 https://arxiv.org/pdf/2202.06969.pdf
 
 2. Donald-McCann et al.: matryoshka II: Accelerating Effective Field Theory Analyses of the Galaxy Power Spectrum \
-https://arxiv.org/pdf/2202.07557.pdf 
+https://arxiv.org/pdf/2202.07557.pdf
 - Intro has several refs on state of the art PT based models
 - Pybird implementation
 
 3. Amon et al.: Consistent lensing and clustering in a low-S8 Universe with BOSS, DES Year 3, HSC Year 1 and KiDS-1000 (!!!) \
 https://arxiv.org/pdf/2202.07440.pdf \
 An important paper, do read thoroughly.
+
+## Feb 17:
+1. Lemos et al.: Robust sampling for weak lensing and clustering analyses with the Dark Energy Survey \
+https://arxiv.org/pdf/2202.08233.pdf \
+A good source for an overview of Beysian inference and sampling posterior
+
+2. Zhang et al.: ncorporating galaxy cluster triaxiality in stacked cluster weak lensing analyses \
+https://arxiv.org/pdf/2202.08211.pdf
+
+3. Yankelevich et al.: The halo bispectrum as a sensitive probe of massive neutrinos and baryon physics
+https://arxiv.org/pdf/2202.07680.pdf \
+See discussion on shot noise
