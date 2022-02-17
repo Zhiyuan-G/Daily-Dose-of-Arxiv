@@ -18,7 +18,7 @@ Autoencoder to forward CMB power spectra.
 https://arxiv.org/pdf/2202.06969.pdf
 
 2. Donald-McCann et al.: matryoshka II: Accelerating Effective Field Theory Analyses of the Galaxy Power Spectrum \
-https://arxiv.org/pdf/2202.07557.pdf \
+https://arxiv.org/pdf/2202.07557.pdf 
 - Intro has several refs on state of the art PT based models
 - Pybird implementation
 

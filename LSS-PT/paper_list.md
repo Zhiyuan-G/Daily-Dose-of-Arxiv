@@ -10,8 +10,13 @@
 ## 2. SPT/EPT:
 a. Quick jump-in: Pandey et al. 2020: https://arxiv.org/pdf/2008.05991.pdf \
 b. Theory: Jain and Bertschinger,1994: https://arxiv.org/pdf/astro-ph/9311070.pdf \
-c. Bias parms renormalizing: McDonald 2016: https://arxiv.org/pdf/astro-ph/0609413.pdf \
-d. Generalizing bias: McDonald and Roy 2009: https://arxiv.org/pdf/0902.0991.pdf (!)
+c. Bias parms renormalizing: McDonald 2006: https://arxiv.org/pdf/astro-ph/0609413.pdf \
+d. KEY PAPER(!!!): Generalizing bias: McDonald and Roy 2009: https://arxiv.org/pdf/0902.0991.pdf (following the discussion in McDonald06) \
+e. Defining renormalized bias parameters and kernels: Saito et al. 2014: https://arxiv.org/abs/1405.1447  (Follow up on the above two paper)\
+f Local and non-local bias:
+- Scherrer and Weinberg 1998: CONSTRAINTS ON THE EFFECTS OF LOCALLY BIASED GALAXY FORMATION: https://iopscience.iop.org/article/10.1086/306113/pdf
+- Chan et al. 2012: Gravity and Large-Scale Non-local Bias: https://arxiv.org/pdf/1201.3614.pdf
+
 
 ## 3. LPT:
 a. Chen et al. 2020: https://arxiv.org/pdf/2005.00523.pdf (!!!)\
@@ -23,7 +28,7 @@ a. Berlind and Weinberg: https://arxiv.org/pdf/astro-ph/0109001.pdf
 
 ## 5.EFT:
 a. Perko et al.: https://arxiv.org/abs/1610.09321 \
-b. D'Amico et al.: https://arxiv.org/abs/1909.05271 
+b. D'Amico et al.: https://arxiv.org/abs/1909.05271
 
 ## 6. Miscellaneous:
 Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.585
