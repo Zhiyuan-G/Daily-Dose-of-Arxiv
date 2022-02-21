@@ -37,3 +37,20 @@ https://arxiv.org/pdf/2202.08211.pdf
 3. Yankelevich et al.: The halo bispectrum as a sensitive probe of massive neutrinos and baryon physics
 https://arxiv.org/pdf/2202.07680.pdf \
 See discussion on shot noise
+
+## Feb 18:
+1. Ballardini et al: New constraints on primordial features from the galaxy two-point correlation function \
+https://arxiv.org/pdf/2202.08819.pdf \
+Connect Primordial features (PF) to anomalies in CMB temperature angular power spectrum. This paper compare three different PF models.
+(PF in primordial power spectrum seems to be a area of great interests.)
+
+2. Fazolo et al.: Skewness as a test of dark energy perturbations \
+https://arxiv.org/pdf/2202.08355.pdf \
+Section II offers good theory bg for perturbation in terms of skewness.
+
+3. Gorce et al.: Retrieving cosmological information from small-scale CMB foregrounds II. The kinetic Sunyaev Zel’dovich effect \
+https://arxiv.org/pdf/2202.08698.pdf
+
+4. Tyhurst et al.: Redshift space distortions in Lagrangian space and the linear large scale velocity field of dark matter \
+https://arxiv.org/pdf/2202.08435.pdf \
+Lagrangian formulation bg in section II.
