@@ -34,8 +34,8 @@ b. D'Amico et al.: https://arxiv.org/abs/1909.05271
 Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.585
 
 ## 7. Sims:
-LAST JOURNEY: Heitmann et al 2021: https://arxiv.org/pdf/2006.01697.pdf
-
+LAST JOURNEY: Heitmann et al 2021: https://arxiv.org/pdf/2006.01697.pdf \
+Abacus: Garrison, et al. 2017: https://arxiv.org/abs/1712.05768
 
 ## Paper for useful tools:
 1. FAST-PT paper1 : EcEwen et al. 2016: https://arxiv.org/pdf/1603.04826.pdf \
@@ -47,4 +47,4 @@ LAST JOURNEY: Heitmann et al 2021: https://arxiv.org/pdf/2006.01697.pdf
 2. NBODYKIT: Python toolkit for analyzing large-scale structure (LSS) data. \
    Hand et al. 17: https://arxiv.org/pdf/1712.05834.pdf
 
-3. PyBird: Evaluating the multipoles of the power spectrum of biased tracers in redshift space: https://github.com/pierrexyz/pybird \
+3. PyBird: Evaluating the multipoles of the power spectrum of biased tracers in redshift space: https://github.com/pierrexyz/pybird 
