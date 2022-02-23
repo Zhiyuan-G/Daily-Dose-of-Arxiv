@@ -21,7 +21,8 @@ f Local and non-local bias:
 ## 3. LPT:
 a. Chen et al. 2020: https://arxiv.org/pdf/2005.00523.pdf (!!!)\
 b. Section 2.5 of Bernardeau et al. (link above) \
-c. Matsubara 2008: https://arxiv.org/pdf/0711.2521.pdf (!!)
+c. Matsubara 2008: https://arxiv.org/pdf/0711.2521.pdf (!!) \
+d. The Zel’dovich approximation. White 2014: https://arxiv.org/pdf/1401.5466.pdf
 
 ## 4. HOD:
 a. Berlind and Weinberg: https://arxiv.org/pdf/astro-ph/0109001.pdf
