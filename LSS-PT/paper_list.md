@@ -32,9 +32,9 @@ a. Perko et al.: https://arxiv.org/abs/1610.09321 \
 b. D'Amico et al.: https://arxiv.org/abs/1909.05271
 
 ## 6. Miscellaneous:
--Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.585
--Bisa chanllenge related DESC paper: Goldstein et al.: https://arxiv.org/pdf/2111.00501.pdf
--Peak-Background Split (PBS): https://arxiv.org/pdf/1212.0868.pdf
+- Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.585
+- Bisa chanllenge related DESC paper: Goldstein et al.: https://arxiv.org/pdf/2111.00501.pdf
+- Peak-Background Split (PBS): https://arxiv.org/pdf/1212.0868.pdf
 
 ## 7. Sims:
 LAST JOURNEY: Heitmann et al 2021: https://arxiv.org/pdf/2006.01697.pdf \
