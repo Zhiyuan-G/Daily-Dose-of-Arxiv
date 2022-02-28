@@ -12,3 +12,15 @@ See section II on thory for late-universe cosmo probes: 21cm IM, FRB, GW, SGL
 1. Knorad and Bartelmann: Kinetic Field Theory for Cosmic Structure Formation \
 https://arxiv.org/pdf/2202.11077.pdf
 c.f. Kinetic Field & PT
+
+## Feb 24
+Krippendorf and Spannowsky: A duality connecting neural network and cosmological dynamics \
+https://arxiv.org/pdf/2202.11104.pdf
+
+## Feb 25
+1. Cai et al.: No-go guide for the Hubble tension : matter perturbations \
+https://arxiv.org/pdf/2202.12214.pdf \
+Disfavour new physics beyond ΛCDM at late time in terms of solving H0 tension.
+
+2. Chakraborty et al.:  Skewing the CMB×LSS: a Fast Method for Bispectrum Analysis \
+https://arxiv.org/pdf/2202.11724.pdf
