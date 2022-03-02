@@ -14,3 +14,6 @@ https://arxiv.org/pdf/2202.14006.pdf
 
 3. Calcgni et al.: Lectures on classical and quantum cosmology \
 https://arxiv.org/pdf/2202.13875.pdf
+
+## Mar 2
+No paper today

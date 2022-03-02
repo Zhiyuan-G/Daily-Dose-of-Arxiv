@@ -35,11 +35,15 @@ b. D'Amico et al.: https://arxiv.org/abs/1909.05271
 - Makino et al. 1992: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.585
 - Bisa chanllenge related DESC paper: Goldstein et al.: https://arxiv.org/pdf/2111.00501.pdf
 - Peak-Background Split (PBS): https://arxiv.org/pdf/1212.0868.pdf
-- Generating mock galaxy catalog: Carretero et al. 2014: https://arxiv.org/pdf/1411.3286.pdf
+
 
 ## 7. Sims:
 LAST JOURNEY: Heitmann et al 2021: https://arxiv.org/pdf/2006.01697.pdf \
 ABACUS: Garrison, et al. 2017: https://arxiv.org/abs/1712.05768
+
+## 8. Generating mock galaxy catalog:
+- Generating mock galaxy catalog: Carretero et al. 2014: https://arxiv.org/pdf/1411.3286.pdf
+- CosmoDC2 pre: https://www.linea.gov.br/wp-content/uploads/lineadbfiles/apresentacao/CosmoDC2.pdf
 
 ## Paper for useful tools:
 1. FAST-PT paper1 : EcEwen et al. 2016: https://arxiv.org/pdf/1603.04826.pdf \
