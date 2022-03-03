@@ -17,3 +17,6 @@ https://arxiv.org/pdf/2202.13875.pdf
 
 ## Mar 2
 No paper today
+
+## Mar 3
+No paper today
