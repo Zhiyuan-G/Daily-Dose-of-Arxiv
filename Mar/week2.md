@@ -10,4 +10,5 @@ https://arxiv.org/pdf/2203.03946.pdf
 
 # Mar 9
 1. Kumar: Probing Cosmology with Baryon Acoustic Oscillations using Gravitational Waves \
-https://arxiv.org/pdf/2203.04273.pdf
+https://arxiv.org/pdf/2203.04273.pdf \
+A good and precise review on BAO in section II.
