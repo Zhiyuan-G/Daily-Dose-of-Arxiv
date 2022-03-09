@@ -20,3 +20,6 @@ No paper today
 
 ## Mar 3
 No paper today
+
+## Mar 4
+No paper today
