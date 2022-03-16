@@ -36,7 +36,9 @@ b. D'Amico et al.: https://arxiv.org/abs/1909.05271
 - Bisa chanllenge related DESC paper: Goldstein et al.: https://arxiv.org/pdf/2111.00501.pdf
 - Peak-Background Split (PBS): https://arxiv.org/pdf/1212.0868.pdf
 - Sample variance: http://ilp.upmc.fr/theorymeetsparis/talkslides/Corasaniti.pdf
-
+- Halo bias:
+  -  Evolution: https://iopscience.iop.org/article/10.1086/307495/pdf
+  -  Theory predict: https://academic.oup.com/mnras/article/472/4/3959/4093078
 
 ## 7. Sims:
 LAST JOURNEY: Heitmann et al 2021: https://arxiv.org/pdf/2006.01697.pdf \
@@ -45,6 +47,16 @@ ABACUS: Garrison, et al. 2017: https://arxiv.org/abs/1712.05768
 ## 8. Generating mock galaxy catalog:
 - Generating mock galaxy catalog: Carretero et al. 2014: https://arxiv.org/pdf/1411.3286.pdf
 - CosmoDC2 pre: https://www.linea.gov.br/wp-content/uploads/lineadbfiles/apresentacao/CosmoDC2.pdf
+
+## Nbody simualtion:
+Intro
+- Bertschinger and James 91: https://aip.scitation.org/doi/pdf/10.1063/1.4822978
+
+Measure power spectra
+- Jing 05: https://iopscience.iop.org/article/10.1086/427087/pdf
+- Sefusatti et al. 17: https://arxiv.org/pdf/1512.07295.pdf
+
+
 
 ## BC related:
 - power spectra smoothing: https://iopscience.iop.org/article/10.1088/0004-637X/713/2/1322/pdf
