@@ -15,3 +15,14 @@ https://arxiv.org/pdf/2203.14724.pdf
 
 2. Cueli M. M. et al: Tomography-based observational measurements of the halo mass function via the submillimeter magnification bias \
 https://arxiv.org/pdf/2203.14638.pdf
+
+# Mar 30
+No paper today
+
+# Mar 31
+No paper today
+
+# Apr 1
+1. Zhang et al.: Constraining galaxy-halo connection with high-order statistics \
+https://arxiv.org/pdf/2203.17214.pdf \
+3PCF constraining HOD parameters better for DESI-like galaxy samples.
