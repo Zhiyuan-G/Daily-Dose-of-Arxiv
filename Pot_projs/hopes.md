@@ -14,3 +14,5 @@
       https://arxiv.org/abs/2006.01146
     - Salvador et al. 18: Measuring Linear and Non-linear Galaxy Bias Using Counts-in-Cells in the Dark Energy Survey Science Verification Data \
       https://arxiv.org/abs/1807.10331
+    - Wen et al. 20: Halo Counts-in-cells for Cosmological Models with Different Dark Energy \
+      https://iopscience.iop.org/article/10.3847/1538-4357/ab6d6f/pdf
